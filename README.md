@@ -1,15 +1,14 @@
 # 🎬 Movie Recommendation Knowledge-Based System
 
-## 📌 Course Information
-- **Course Code:** CSE 404  
-- **Course Title:** Artificial Intelligence and Expert Systems Lab  
-- **Lab Report:** 01  
+## 📌 Project Information
+
+A knowledge-based movie recommendation system built using Prolog and expert system concepts.
 
 ---
 
 ## 👨‍💻 Project Overview
 
-This project is a **Prolog-based Movie Recommendation System** developed as part of the Artificial Intelligence and Expert Systems Lab course. The system uses a **knowledge-based expert system approach** to provide personalized movie recommendations for users.
+This project is a Prolog-based Movie Recommendation System that uses a knowledge-based expert system approach to provide personalized movie recommendations. The system uses a **knowledge-based expert system approach** to provide personalized movie recommendations for users.
 
 The recommendation engine combines:
 - Genre-based recommendation
@@ -107,10 +106,9 @@ Calculates:
 # 📂 Project Structure
 
 ```text
-CSE404-Movie-Recommendation-System/
+Movie-Recommendation-System/
 │
 ├── prolog.pl
-├── CSE404_LabReport1.pdf
 ├── LICENSE
 └── README.md
 ```
