@@ -204,11 +204,13 @@ The project successfully demonstrates how Artificial Intelligence techniques and
 
 # 👨‍🎓 Author
 
-**Md Tausif Uddin**  
-Department of Computer Science and Engineering (CSE) 
+### Md Tausif Uddin
+
+Department of Computer Science & Engineering (CSE)  
 University of Asia Pacific (UAP)
 
 GitHub: https://github.com/tausif112
+
 
 ---
 
